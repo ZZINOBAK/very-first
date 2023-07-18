@@ -7,6 +7,9 @@ public class ttttt {
 		System.out.println("tttt");
 		System.out.println("tttt");
 		System.out.println("tttt");
+		System.out.println("tttt");
+		System.out.println("tttt");
+		System.out.println("tttt");
 
 	}
 
